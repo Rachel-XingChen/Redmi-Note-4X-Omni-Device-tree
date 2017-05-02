@@ -113,6 +113,9 @@ BOARD_CHARGER_DISABLE_INIT_BLANK := true
 BOARD_USES_CYANOGEN_HARDWARE := true
 BOARD_HARDWARE_CLASS += hardware/cyanogen/cmhw
 
+# crdroid optimizations
+CRDROID_OPTIMIZATIONS := true
+
 # CNE / DPM
 BOARD_USES_QCNE := true
 
